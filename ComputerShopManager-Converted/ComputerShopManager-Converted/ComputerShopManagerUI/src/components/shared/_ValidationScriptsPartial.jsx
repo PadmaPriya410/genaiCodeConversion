@@ -1,0 +1,1 @@
+//This code snippet doesn't need conversion.  It's already JavaScript code that includes jQuery validation libraries.  It would be included in a `<script>` tag within an HTML file.  No changes are necessary unless you are using a different framework that doesn't rely on these specific jQuery validation libraries.

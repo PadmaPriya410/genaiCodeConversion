@@ -1,0 +1,1 @@
+//This code snippet doesn't require any JavaScript conversion. It's a C# Razor directive specifying a layout page.  There is no client-side logic to translate.
